@@ -1,4 +1,4 @@
-- 👋 Hi, I’m julien Riviere.
+- 👋 Hi, I’m @julienEcole.
   I'm currently doing a BTS SNIR in France at louis Armand high school, in nogent (94130).
 - 👀 I’m interested in quantum technologie, role playing games, some sport (walk, cycling)
 - 🌱 I’m currently learning node.js
