@@ -22,7 +22,7 @@
         2020-2021     python          openclassroom
         2021-2022     node.js         openClassroom
         
-- 💞️ I'm currently looking for an academie to continue my education for a BAC +3.
+- 💞️ I'm currently looking for an academie to continue my education.
 - 📫 You can send me a mail at julien.riviere94120@gmail.com
 
 <!---
