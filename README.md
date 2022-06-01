@@ -3,19 +3,19 @@
 - 👀 I’m interested in science, role playing games and sports (walk, cycling)...
 - 🌱 I’m currently learning node.js
 -     I already learn the next language in order of mastery :
-        c++     (4/5)
-        html    (4/5)
-        php     (4/5)
-        sql     (3/5)
-        python  (3/5)
-        C#      (3/5)
-        node.js (2/5)
-        Ocaml   (2/5)
+        c++     
+        html    
+        php
+        C#
+        sql
+        python
+        node.js
+        Ocaml
 -     I already master the next software in order of mastery :
-        C++ builder           (4/5)
-        QT                    (3.5/5)
-        Visual Studio Code    (3/5)
-        GIT                   (3/5)
+        C++ builder           
+        QT                    
+        Visual Studio Code    
+        GIT                   
  -     I self-trained myself on thouse language with the source : 
         Date          Language        source
         2020-2021     c++             openclassroom
